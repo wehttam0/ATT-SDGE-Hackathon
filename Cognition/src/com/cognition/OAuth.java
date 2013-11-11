@@ -62,8 +62,8 @@ public class OAuth extends Activity{
         	
             try { 
                 OAuthService service = new ServiceBuilder().provider(GoogleApi.class)
-        				.apiKey("706694437362.apps.googleusercontent.com")
-        				.apiSecret("jWwNDamtGiVIJt3PL_7qI4xZ")
+        				.apiKey("GetYourOwn!")
+        				.apiSecret("GetYourOwn!")
         				.callback("http://www.google.com")
         				.build();
         		
