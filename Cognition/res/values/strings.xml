@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Cognition</string>
+    <string name="app_name">Cog-EN</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+
+    <color name="black">#000000</color>
+
+    <string name="title_activity_login">LoginActivity</string>
+    
+    <string-array
+        name="drawer_items">
+        <item>Dash</item>
+        <item>Profile</item>
+    </string-array>
+    
+    <string name="drawer_open">Navigation Drawer Open Menu</string>
+    <string name="drawer_close">Navigation Drawer</string>
+    <string name="cog_en">Cog-EN</string>
 
 </resources>
